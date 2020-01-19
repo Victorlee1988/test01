@@ -1,0 +1,4 @@
+REVIEWBOARD_URL="http://rb.alstudiox.com"
+REPOSITORY="ssh://git@gitlab.alstudiox.com:2226/alstudio/test/test01.git"
+USERNAME="victorlee"
+PASSWORD="Ab19880316"
